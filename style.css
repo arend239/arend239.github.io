@@ -31,6 +31,12 @@ a:hover {
   text-decoration: underline;
   color: rgb(16, 164, 228);
 }
+code {
+  font-family: Consolas,"courier new";
+  color: rgb(16, 164, 228);
+  font-size: 105%;;
+}
+
 .current-page {
   color: rgb(16, 164, 228);
 }
@@ -59,10 +65,6 @@ a:hover {
   color: #e0e0e0;
   font-size: 14px;
 }
-/* .banner a {
-  color: #e0e0e0;
-} */
-
 #left_banner {
   text-align: left;
   margin-left: 21vw;
@@ -71,14 +73,12 @@ a:hover {
   text-align: right;
   margin-right: 21vw;
 }
-
 .container {
     margin: auto;
     margin-top: 2px;
-    margin-left: 25vw;
-    margin-right: 20vw;
+    margin-left: 28vw;
+    margin-right: 28vw;
 }
-
 .name {
   font-size: 2.2rem;
   margin-bottom: -0.9rem;
@@ -87,10 +87,6 @@ a:hover {
 .great {
   margin-bottom: 0.3rem;
 }
-/* 
-.container h3 {
-  text-align: center;
-} */
 .footer {
     text-align: center;
     /* margin: 0;  */
@@ -105,26 +101,8 @@ a:hover {
   color: #e0e0e0;
   font-size: 16px;
 }
-
 #text_footer {
   text-align: center;
   margin-left: 21vw;
   margin-right: 21vw;
-}
-#left_footer {
-  text-align: left;
-  margin-left: 21vw;
-}
-#right_footer {
-  text-align: right;
-  margin-right: 21vw;
-}
-.table {
-  margin: auto;
-}
-.text {
-  width: 70%; /* Largura da coluna 'Nome' */
-}
-.info {
-  width: 30%; /* Largura da coluna 'Email' */
 }
