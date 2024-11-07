@@ -1,5 +1,4 @@
-# Website em construção
+# Website Under Construction
 
-## Objetivo
- - Criar um simples resumo para centralizar projetos e ideias de maneira pública. 
-
+## Objective
+ - Create a simple summary to centralize projects and ideas publicly.
